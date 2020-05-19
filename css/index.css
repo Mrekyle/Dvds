@@ -1,0 +1,29 @@
+.logo {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+	height: 150px;
+	width: 400px;
+}
+
+nav {
+	color: white
+}
+
+hr {
+	width: 130px;
+	border: 2px solid lightgrey;
+}
+
+.lnk-container {
+	background-color: grey;
+}
+
+footer {
+	background-color: blue;
+}
+
+.mb-ctn {
+	margin-bottom: -16px;
+}
